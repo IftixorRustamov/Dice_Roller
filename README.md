@@ -2,7 +2,7 @@
 
 A simple **Dice Roller** app that lets users roll a die and displays the result in an interactive and visually appealing way.
 
-
+<img src="app/src/main/res/dice.png" alt="Alt text" width="250" style="display: inline-block;" />
 ## Features
 
 - **Interactive UI**: Displays a 3D dice that updates dynamically when rolled.
